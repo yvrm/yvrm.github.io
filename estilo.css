@@ -1,0 +1,58 @@
+.quem_somos h4 {
+	color: rgba(0,50,120, .6);
+	font: normal;
+}
+
+.competicoes h4 {
+	color: rgba(0,50,120, .6);
+	font: normal;
+}
+
+.eventos h4 {
+	color: rgba(0,50,120, .6);
+	font: normal;
+}
+
+.quem_somos p {
+	color: rgba(0,150,50, .6);
+	font: normal;
+}
+
+.competicoes p {
+	color: rgba(0,150,50, .6);
+	font: normal;
+}
+
+.eventos p {
+	color: rgba(0,150,50, .6);
+	font: normal;
+}
+
+h1 {
+	color:rgb(0,0,0);
+	font-family: Arial;
+}
+
+.conteudo {
+	color: rgba(0,150,50, .8);
+	font: normal;	
+}
+
+.parcerias{
+	text-align: center;
+}
+
+img{
+	max-width: 100%;
+	margin: 10px;
+}
+
+header img{
+	text-align: center;
+	height: 20%;
+}
+
+footer {
+	font-size: 11px;
+	text-align: center;
+}
